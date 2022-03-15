@@ -1,0 +1,131 @@
+*{
+    color: rgb(161, 155, 155);
+    margin: 0;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.mainheader{
+    
+   background-image: url(G0EEDKCN5EG21633976665304.jpg);
+}
+.bcknvideo{
+    width: 100%;
+    position: fixed;
+    padding-left: 6%;
+    align-items: center;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.589);
+    border-bottom: 1px solid white;
+}
+.mainnav1{
+    padding-left: 15%;
+    padding: 1.5% ;
+    width: 100vh;
+   
+}
+.mainnav{
+    font-weight: 500;
+    font-size: 14px;
+    padding:  4%;
+}
+.mainnav:hover{
+    color: white;
+    transition: 0.5s;
+}
+
+.navsign{
+ cursor: pointer;
+ margin-left: 12%;
+ color: white;
+ font-weight: 700;
+ padding: 0.3% 1%;
+ background-color: rgba(42, 42, 250, 0.39);
+ border: 3px solid rgba(54, 54, 243, 0.692);
+ border-radius: 30px;
+}
+.navsign:hover{
+    transition: 0.5s;
+    background-color: rgba(42, 42, 250, 0.575);
+    border: 3px solid rgb(54, 54, 243);
+}
+.navlogin{
+  cursor: pointer;
+  align-items: center;
+  margin-left: 1%;
+  background: none;
+  border: none;
+}
+.headerdes{
+    padding: 20% 10%;
+}
+.headerimg{
+    border-radius: 25px;
+    width: 60px;
+}
+.calldiv{
+    
+    align-items: center;
+    align-items: center;
+}
+.adaph1{
+    margin-left: 4%;
+    color: white;
+    letter-spacing: 20px;
+    display: inline-block;
+    font-size: 80px
+    
+}
+.callh1{
+    font-size: 100px;
+    color: white;
+}
+.ofspan{
+   color: white;
+   font-size: 50px;
+}
+.available{
+    margin: 3.5% 0;
+    
+    color: white;
+    font-size: 30px;
+}
+.dawnload{
+    cursor: pointer;
+    margin-right: 1%;
+    font-weight: 700;
+    color: white;
+    border-radius: 30px;
+    padding: 1% 5%;
+
+    background-color: rgba(42, 42, 250, 0.548);
+    border: 3px solid rgba(54, 54, 243, 0.692);
+}
+.visitsite{
+    cursor: pointer;
+    
+    font-weight: 700;
+    color: white;
+    border-radius: 30px;
+    padding: 1% 7%;
+    background: none;
+    border: 3px solid white;
+}
+.visitsite:hover{
+    transition: 0.5s;
+    background-color: rgba(42, 42, 250, 0.548);
+    border: 3px solid rgb(54, 54, 243);
+}
+.dawnload:hover{
+    transition: 0.5s;
+    background-color: rgba(42, 42, 250, 0.733);
+    border: 3px solid rgb(54, 54, 243);
+}
+section{
+    background-color: rgb(54, 52, 52);
+}
+.sectionheader{
+    padding-top: 10%;
+    text-align: center;
+    color: white;
+    font-size: 37px;
+}
